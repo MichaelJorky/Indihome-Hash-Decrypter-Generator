@@ -44,4 +44,4 @@ Aplikasi seperti Hashcat, John the Ripper, atau layanan online seperti CrackStat
 9. MD5 Result & HMAC-MD5 Result ini adalah login level 2 {tergantung versi dan type}, SHA256 Result & HMAC-SHA256 Result ini adalah login level 1 {tergantung versi dan type serta secret key}.
 
 #
-Just tested on Software Version: V9.0.11P1N15 and V9.0.11P1N84A
+Just tested on ZTE F670L Software Version: V9.0.11P1N15 and V9.0.11P1N84A
