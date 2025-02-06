@@ -42,6 +42,7 @@ Aplikasi seperti Hashcat, John the Ripper, atau layanan online seperti CrackStat
 7. Masih di log Fiddler selanjutnya cari misal: http://{router_ip}/?_type=loginData&_tag=login_entry lalu copy password yang muncul pada bagian body misal: f6c1479b56ebe0345e1b370640b74d77e6b09c41c3c8412a542adc2167ec3b6e (SHA256Password =sha256(Password+xmlObj);) secara default {unix_time_algoritms} bisa didapat di http://{router_ip}/function_module/login_module/login_page/logintoken_lua.lua?_={unix_time}.
 8. Selanjutnya klik "Generate Hash Encryption!" di Aplikasi IHDG lalu search f6c1479b56ebe0345e1b370640b74d77e6b09c41c3c8412a542adc2167ec3b6e pada aplikasi IHDG jika pencarian hash tidak ditemukan silahkan coba ulangi sampai mendapatkan hash yang cocok, jika sudah mendapatkan hash yang cocok silahkan klik "Generate Hash Decryption!".
 9. MD5 Result & HMAC-MD5 Result ini adalah login level 2 {tergantung versi dan type}, SHA256 Result & HMAC-SHA256 Result ini adalah login level 1 {tergantung versi dan type serta secret key}.
+10. Ketika mengakses ip router di browser pastikan aplikasi IHDG sudah terbuka sebelumnya dan jangan menutup browser sebelum tombol "Generate Hash Decryption!" di klik.
 
 #
 Just tested on ZTE F670L Software Version: V9.0.11P1N15 and V9.0.11P1N84A
