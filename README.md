@@ -26,7 +26,7 @@ Aplikasi seperti Hashcat, John the Ripper, atau layanan online seperti CrackStat
 #
 <b>[ Cara Menggunakan Indihome Hash Decrypter Generator ]</b>
 
-1. Download IHDG via: https://codeload.github.com/MichaelJorky/Mini-Router-Scan/zip/refs/heads/main
+1. Download IHDG via: https://codeload.github.com/MichaelJorky/Indihome-Hash-Decrypter-Generator/zip/refs/heads/main
 2. Edit Unix Time misal: 59438044, Edit Signature misal: F670L, Edit Serial Number misal: ZTEGcanr9631, Edit Mac Address misal: D7:4E:09:4C:57:F2, Edit Public Key Misal: Telkomdso123, Edit Customer ID misal: 124716254913, Edit Secret Key misal: telkomselbrn5
 3. Selanjutnya buka Aplikasi "Fiddler" (Cari di google), lalu pilih "Browse → Chrome" (tinggal disesuaikan dengan kebutuhan)
 4. Dalam keadaan aplikasi IHDG terbuka silahkan login ke router misalkan IP Router 192.168.1.1 user: user password: user1234
