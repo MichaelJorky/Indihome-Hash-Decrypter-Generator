@@ -2,7 +2,7 @@
 
 > **Peringatan:** :red_circle: Aplikasi ini dibuat khusus untuk keperluan pendidikan dan penelitian. Penulis tidak bertanggung jawab atas segala bentuk penyalahgunaan atau kerusakan yang mungkin timbul dari penggunaan program ini. Harap gunakan dengan bijak dan hanya di lingkungan di mana Anda memiliki izin eksplisit.
 
-Aplikasi Indihome Hash Decrypter Generator adalah perangkat lunak yang dapat digunakan untuk menghasilkan (generate) atau mencoba membalikkan (decrypt) hash menjadi teks asli. Fungsi aplikasi ini dibagi menjadi dua bagian utama:
+Aplikasi Indihome Hash Decrypter Generator adalah perangkat lunak yang dapat digunakan untuk menghasilkan (generate) atau mencoba membalikkan (decrypt) hash menjadi teks asli lewat tekhnik Brute Force. Fungsi aplikasi ini dibagi menjadi dua bagian utama:
 
 1. Hash Generator
 - Mengubah teks biasa (plaintext) menjadi hash menggunakan algoritma seperti MD5, SHA-1, SHA-256, SHA-512, CRC32, dan lainnya.
