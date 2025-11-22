@@ -21,10 +21,6 @@ Contoh Penggunaan:
 
 Aplikasi seperti Hashcat, John the Ripper, atau layanan online seperti CrackStation sering digunakan untuk mencoba membalikkan hash ke teks aslinya.
 
-~ (v1.0.0.1) Kamis 6 Februari 2025 - First Release Indihome Hash Decrypter Generator by Xtreme's
-
-~ (v1.0.0.2) Selasa 25 Februari 2025 - Update SecretKey Algoritms (Juniper Network)
-
 #
 <b>[ Cara Menggunakan Indihome Hash Decrypter Generator ]</b>
 
