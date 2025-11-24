@@ -24,7 +24,7 @@ Aplikasi seperti Hashcat, John the Ripper, atau layanan online seperti CrackStat
 #
 <b>[ Cara Menggunakan Indihome Hash Decrypter Generator ]</b>
 
-1. Download IHDG via: https://codeload.github.com/MichaelJorky/Indihome-Hash-Decrypter-Generator/zip/refs/heads/main
+1. Download IHDG via: https://github.com/MichaelJorky/Indihome-Hash-Decrypter-Generator/releases
 2. Pastikan ketika menggunakan aplikasi IHDG sedang terhubung ke jaringan yang sedang di Testing
 3. Masukan Device SN, Device Mac, TR089 Mac (Optional) dan WPA Key lalu klik "Generating Hash Encryption" setelah keluar hasilnya lalu silahkan klik "BruteForce Hash Decryption!"
 4. Jika hasil log menampilkan status Found maka itu adalah salah satu kunci yang bisa digunakan untuk login admin ke Router ZTE contohnya dalam pengujian Saya menggunakan ZTE F670L
